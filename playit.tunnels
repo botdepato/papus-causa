@@ -1,59 +1,59 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "casino-steady.gl.joinmc.link",
-          "assigned_srv": "casino-steady.gl.joinmc.link",
+          "assigned_domain": "products-bangkok.gl.at.ply.gg",
+          "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "4b0ffa54-b148-47b3-888f-f29042a28d2d",
+          "id": "03071a73-c0b5-427d-bcb9-7897fb094316",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 25328,
-          "port_start": 25327,
+          "port_end": 2220,
+          "port_start": 2219,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-15T15:20:23.926374Z",
+      "created_at": "2024-06-16T16:52:19.499219Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "dcbbf327-4855-4337-8ac5-45a5ffb3149e",
-      "name": "Minecraft Java",
+      "id": "b92c948a-9750-4632-b8dd-240203f8ffea",
+      "name": "Minecraft Bedrock",
       "origin": {
         "data": {
-          "agent_id": "084def32-db28-46c7-bc75-750a63a75449",
-          "agent_name": "from-key-855b",
+          "agent_id": "976a662d-c3ed-4ca6-bd71-cc7d0d4ebc22",
+          "agent_name": "from-key-9131",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 2219
         },
         "type": "agent"
       },
       "port_count": 1,
-      "port_type": "tcp",
+      "port_type": "udp",
       "ratelimit": {
         "bytes_per_second": null,
         "packets_per_second": null
       },
       "region": "global",
-      "tunnel_type": "minecraft-java"
+      "tunnel_type": "minecraft-bedrock"
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   }
 }

@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "global-romance.gl.joinmc.link",
-          "assigned_srv": "global-romance.gl.joinmc.link",
+          "assigned_domain": "structure-expenditure.gl.joinmc.link",
+          "assigned_srv": "structure-expenditure.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d5a15e95-c335-46fa-9b53-75346f55dfc2",
+          "id": "207c7ffe-0233-4638-8f32-b374a87e1ee3",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 27808,
-          "port_start": 27807,
+          "port_end": 29426,
+          "port_start": 29425,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-17T01:09:21.175439Z",
+      "created_at": "2024-06-18T03:00:57.031293Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "cbb434ae-afcf-47b8-8fdb-4692a8dbf369",
+      "id": "a2a9985f-3c8b-4456-8313-5fc5983144f7",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "0d4ef32a-7efd-4f7d-b2b8-dca8a256e6ea",
-          "agent_name": "Server tommer",
+          "agent_id": "7e1f4078-1797-47e1-968e-2169cef73e45",
+          "agent_name": "from-key-6466",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
